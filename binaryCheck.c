@@ -16,6 +16,6 @@ int isBinary(int n)
 
 int main()
 {
-    printf("%d",isBinary(111));
+    printf("%d",isBinary(121));
     return 0;
 }
